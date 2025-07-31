@@ -58,7 +58,7 @@ Front-End Developer | UI/UX Designer
 
 ## 📆 Development Progress
 
-Last Updated: **May 2025**  
+Last Updated: **JULY 2025**  
 Track progress through [commits](https://github.com/Syedzayed/GTA-6-Landing-page-/commits/main) and changelog.
 
 🌟 **Star this repo** to support and follow the journey!
