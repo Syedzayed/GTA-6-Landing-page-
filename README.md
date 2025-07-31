@@ -39,3 +39,26 @@ git clone https://github.com/Syedzayed/GTA-6-Landing-page-.git
 cd GTA-6-Landing-page-
 npm install
 npm start
+
+```
+
+## 👨‍💻 Author
+
+**Syed Zayed Ahmed**  
+Front-End Developer | UI/UX Designer
+
+## 📧 Contact
+
+- ✉️ **Email:** [syedzayedahmed2004@gmail.com](mailto:syedzayedahmed2004@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/syedzayedahmed](https://www.linkedin.com/in/syedzayedahmed/)  
+- 🌐 **Portfolio:** [zayedahmed.in](https://www.zayedahmed.in/)
+
+
+---
+
+## 📆 Development Progress
+
+Last Updated: **May 2025**  
+Track progress through [commits](https://github.com/Syedzayed/GTA-6-Landing-page-/commits/main) and changelog.
+
+🌟 **Star this repo** to support and follow the journey!
