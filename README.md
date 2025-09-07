@@ -8,9 +8,9 @@ A sleek and modern landing page concept for the highly anticipated **GTA 6**. Bu
 
 ## 🚀 Features
 
-- 🎬 Full-screen immersive hero section  
-- 🎨 Smooth animations & transitions  
-- ⚡ Fast-loading and optimized build  
+- 🎬 Full-screen immersive hero section
+- 🎨 Smooth animations & transitions
+- ⚡ Fast-loading and optimized build
 - 📦 Built with React & Tailwind CSS
 
 ---
@@ -45,14 +45,13 @@ npm start
 ## 👨‍💻 Author
 
 **Syed Zayed Ahmed**  
-Front-End Developer | UI/UX Designer
+Full-Stack Developer| Web Developer | UI/UX Designer
 
 ## 📧 Contact
 
-- ✉️ **Email:** [syedzayedahmed2004@gmail.com](mailto:syedzayedahmed2004@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/syedzayedahmed](https://www.linkedin.com/in/syedzayedahmed/)  
+- ✉️ **Email:** [syedzayedahmed2004@gmail.com](mailto:syedzayedahmed2004@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/syedzayedahmed](https://www.linkedin.com/in/syedzayedahmed/)
 - 🌐 **Portfolio:** [zayedahmed.in](https://www.zayedahmed.in/)
-
 
 ---
 
